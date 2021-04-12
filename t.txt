@@ -1,0 +1,2 @@
+You have to pass array reference if "type" is set to "listvector" at /usr/local/share/perl5/MCE/Map.pm line 311.
+You MUST pass 'AI::Genetic::Pro::Chromosome' object to 'as_value' method. at test1.pl line 25.
