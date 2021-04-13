@@ -38,7 +38,7 @@ for my $genGroup (0 .. $#{$chromosomA}){
       
   }
 }
-print "\n","-" x 72,"\n";
+print "\n","-" x 73,"\n";
 
 printChromosom($chromosomA);
 printChromosom($chromosomB);
